@@ -34,7 +34,7 @@ We collected our Data from the following sources:
 
 [Twitter Application](https://developer.twitter.com/en)
 
-To understand the statistics structure we used pokemon [Pokemon Data Base](https://pokemondb.net/pokedex/bulbasaur#dex-stats)
+To understand the statistics structure we used the [Pokemon Data Base](https://pokemondb.net/pokedex/bulbasaur#dex-stats)
 
 
 <a name="workflow"></a>

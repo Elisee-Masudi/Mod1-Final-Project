@@ -23,12 +23,15 @@ Based on the collected data we were able to get the popularity of each pokemon b
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to build your dataset to answer?
+.We were so drawn by the idea of understanding what parameters won a certain Pokemon more than the other
 
 <a name="dataset"></a>
 
 ## Dataset
-What are your data sources? How did you access these sources? How did you transform or merge them into one cohesive and novel dataset? Provide links to the data if available.
+Used data sources :
+[RapidAPI](https://rapidapi.com/Chewett/api/pokemon-go1/endpoints)
+[Pokemon Data Base](https://pokemondb.net/pokedex/bulbasaur#dex-stats)
+[Twitter Application](https://developer.twitter.com/en)
 
 [Dataset]() 
 

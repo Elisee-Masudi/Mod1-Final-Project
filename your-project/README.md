@@ -30,10 +30,11 @@ Based on the collected data we were able to get the popularity of each pokemon b
 ## Dataset
 Used data sources :
 [RapidAPI](https://rapidapi.com/Chewett/api/pokemon-go1/endpoints)
+
 [Pokemon Data Base](https://pokemondb.net/pokedex/bulbasaur#dex-stats)
+
 [Twitter Application](https://developer.twitter.com/en)
 
-[Dataset]() 
 
 <a name="workflow"></a>
 

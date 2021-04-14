@@ -32,9 +32,9 @@ We collected our Data from the following sources:
 
 [RapidAPI](https://rapidapi.com/Chewett/api/pokemon-go1/endpoints)
 
-[Pokemon Data Base](https://pokemondb.net/pokedex/bulbasaur#dex-stats)
-
 [Twitter Application](https://developer.twitter.com/en)
+
+To understand the statistics structure we used pokemon [Pokemon Data Base](https://pokemondb.net/pokedex/bulbasaur#dex-stats)
 
 
 <a name="workflow"></a>

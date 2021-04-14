@@ -28,7 +28,8 @@ Based on the collected data we were able to get the popularity of each pokemon b
 <a name="dataset"></a>
 
 ## Dataset
-Used data sources :
+We collected our Data from the following sources:
+
 [RapidAPI](https://rapidapi.com/Chewett/api/pokemon-go1/endpoints)
 
 [Pokemon Data Base](https://pokemondb.net/pokedex/bulbasaur#dex-stats)
@@ -39,12 +40,20 @@ Used data sources :
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+- Step 1 : Picking the right project based on existing data and the deciding on the question to answer
+- Step 2 : Planning the project and staking out the code
+- Step 3 : Tasks allocation and data collection from different sources
+- Step 4 : Task tracking platefform 
+- Step 5 : Putting together individually collected data 
+- Step 6 : Planning Data base with ER diagram
+- Step 6 : Cleansing of collected data and storage in a data base
+- Step 7 : Create GitHub repository and inviting project members to collaborate on the repository
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+ One person was in charge of scrapping Pokemon statistics and Storing them in a data base, the other person focused on getting twitter satistics
+ Trello was used as interactive task manager for the project
 
 <a name="links"></a>
 
@@ -53,4 +62,4 @@ Include the links to your repository, slides and trello. Feel free to include an
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/9wlXftcX/pokemon-stat)  

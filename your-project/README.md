@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*[ELisée & Antoine]*
 
-*[Your Cohort, Campus & Date]*
+*[DAPT, PARIS Feb 2021]*
 
 ## Content
 - [Project Description](#project-description)

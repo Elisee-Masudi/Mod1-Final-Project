@@ -16,7 +16,9 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant).
+This project consist on scrapping Pokemon GO web pages to get useful statistics of various Pokemon caracters with the sole pupose to establish 
+various link between different features that a caracter can possess.
+Based on the collected data we were able to get the popularity of each pokemon by looking the number of times it name was coined in twitter discussions. 
 
 <a name="hypotheses-/-questions"></a>
 

@@ -46,13 +46,13 @@ We collected our Data from the following sources:
 - Step 4 : Task tracking platefform 
 - Step 5 : Putting together individually collected data 
 - Step 6 : Planning Data base with ER diagram
-- Step 6 : Cleansing of collected data and storage in a data base
-- Step 7 : Create GitHub repository and inviting project members to collaborate on the repository
+- Step 7: Cleansing of collected data and storage in a data base
+- Step 8 : Create GitHub repository and inviting project members to collaborate on the repository
 
 <a name="organization"></a>
 
 ## Organization
- One person was in charge of scrapping Pokemon statistics and Storing them in a data base, the other person focused on getting twitter satistics
+ One person was in charge of scrapping Pokemon statistics and storing them in a data base, the other person focused on getting twitter satistics 
  Trello was used as interactive task manager for the project
 
 <a name="links"></a>

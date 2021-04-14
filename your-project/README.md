@@ -23,7 +23,7 @@ Based on the collected data we were able to get the popularity of each pokemon b
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-.We were so drawn by the idea of understanding what parameters won a certain Pokemon more than the other
+We were so drawn by the idea of understanding what parameters won popularity to certain Pokemons more than the others
 
 <a name="dataset"></a>
 

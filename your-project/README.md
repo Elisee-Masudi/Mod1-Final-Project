@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[ELisée & Antoine]*
+# The correlation between the generation of Pokemons and their popularity
+ELisée & Antoine
 
-*[DAPT, PARIS Feb 2021]*
+DAPT, PARIS Feb 2021
 
 ## Content
 - [Project Description](#project-description)

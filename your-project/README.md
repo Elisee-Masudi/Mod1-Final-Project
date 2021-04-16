@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# The correlation between the generation of Pokemons and their popularity
+# Correlation between the generation of Pokemons and their popularity
 ELisée & Antoine
 
 DAPT, PARIS Feb 2021

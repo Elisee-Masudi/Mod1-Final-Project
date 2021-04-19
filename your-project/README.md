@@ -61,5 +61,5 @@ To understand the statistics structure we used the [Pokemon Data Base](https://p
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Slides](https://drive.google.com/file/d/1H2nOpD8sLZ--7qh3WDrdT-kJ8HAahPv9/view?usp=sharing)  
 [Trello](https://trello.com/b/9wlXftcX/pokemon-stat)  
